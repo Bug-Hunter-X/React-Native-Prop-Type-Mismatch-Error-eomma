@@ -1,0 +1,1 @@
+This error occurs when you are using a component that expects a specific type of prop (e.g., a function), but you are providing it with a different type (e.g., a string or number). This can lead to unexpected behavior or crashes.  For example, passing a string to a prop expecting a function in a FlatList component's `renderItem` prop.
